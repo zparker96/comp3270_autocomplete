@@ -1,0 +1,27 @@
+Name: Zachary Parker
+AUID: zbp0003
+Hours Spent: 35.0
+Consulted With: NONE.
+
+Resources Used:
+https://www.youtube.com/watch?v=p4kfbNJzftQ 
+(tries in Java, including example implementation of 'add')
+https://www.youtube.com/watch?v=Xt2ouYSxWkw 
+(tries in Java, including example implementation of 'add')
+https://docs.oracle.com/javase/7/docs/api/java/util/PriorityQueue.html 
+(for priority queue functions)
+https://docs.oracle.com/javase/7/docs/api/java/util/AbstractQueue.html 
+(for abstract queue functions)
+https://docs.oracle.com/javase/7/docs/api/java/util/Collection.html
+(for collection functions)
+https://docs.oracle.com/javase/7/docs/api/java/util/Collections.html 
+(for collections functions)
+http://www.java2s.com/Code/Java/Collections-Data-Structure/ConvertIterabletoList.htm
+(for converting Iterable into a list)
+https://stackoverflow.com/questions/3642205/java-arraylist-of-arrays 
+(for making multidimensional arrays using ArrayLists)
+
+Impressions: 
+While the concept of tries was easy to grasp, I found it both difficult and time consuming to properly implement the trie strategy. Online videos helped to construct the add function, which left topMatch and topMatches to implement. topMatch posed a problem that was certainly more simple than topMatches, but completing topMatch first made the topMatches solution more digestible and easy to implement. 
+
+In addition to the code, I spent a large amount of time figuring out the best ways to depict information for the deliverables document. I used Microsoft Excel to visually represent all of my arguments, but figuring out how to construct these graphs (both in terms of solution thinking and Excel semantics) proved time consuming. I did not expect the coding project to be this involved and dense, but I'm glad that I was able to adequately solve the problems that it posed before the deadline. 
